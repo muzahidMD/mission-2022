@@ -1,6 +1,5 @@
 body{
-    margin-left: 10%;
-    margin-right: 10%;
+margin: 0;
 }
 .orange-color{
     color: orange;
@@ -10,6 +9,8 @@ h1{
 }
 section{
     margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .half-width{
     width: 50%;
@@ -32,6 +33,7 @@ section{
     padding-left: 20%;
 }
 .linked-button{
+    text-decoration: none;
     padding: 10px 40px;
     color: white;
     background-color: rgb(55,97,135);
@@ -61,4 +63,37 @@ section{
 }
 #goals{
     background-color: #fff4d6;
+}
+.develop-section{
+    display: flex;
+}
+.develpo-project{
+    width: 70%;
+}
+/** .develop-item{
+    width: 50%;
+}**/
+
+#devlop-text-part{
+    margin-left: -10%;
+}
+.global-section{
+    display: flex;
+}
+#global-img-part{
+    padding-left: 30%;
+}
+#global-text-part{
+    margin-right: -10%;
+}
+.footer-font{
+    color: red;
+}
+footer{
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
 }
