@@ -86,6 +86,13 @@ section{
 #global-text-part{
     margin-right: -10%;
 }
+.customer-section{
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 12px 12px  50px rgb(55,97,135) ;
+    text-align: center;
+}
+
 .footer-font{
     color: red;
 }
