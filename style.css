@@ -67,19 +67,19 @@ section{
 .develop-section{
     display: flex;
 }
+.develop-section h1{
+    padding-right: 40%;
+}
 .develpo-project{
     width: 70%;
 }
-/** .develop-item{
-    width: 50%;
-}**/
-
 #devlop-text-part{
     margin-left: -10%;
 }
 .global-section{
     display: flex;
 }
+
 #global-img-part{
     padding-left: 30%;
 }
@@ -92,6 +92,7 @@ section{
     box-shadow: 12px 12px  50px rgb(55,97,135) ;
     text-align: center;
 }
+
 
 .footer-font{
     color: red;
